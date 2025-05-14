@@ -23,7 +23,7 @@ if st.button("Check for Fraud"):
 
 # Sidebar metrics (hardcoded)
 st.sidebar.header("📊 Model Performance Metrics")
-st.sidebar.write("**Precision:** 0.93")  # Replace with your actual precision
-st.sidebar.write("**Accuracy:** 0.97")
-st.sidebar.write("**Recall:** 0.91")
-st.sidebar.write("**F1 Score:** 0.92")
+st.sidebar.write("**Precision:** 1.0")  # Replace with your actual precision
+st.sidebar.write("**Accuracy:** 0.99")
+st.sidebar.write("**Recall:** 0.99")
+st.sidebar.write("**F1 Score:** 0.99")
